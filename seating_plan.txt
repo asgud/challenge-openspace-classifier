@@ -1,0 +1,39 @@
+--- OpenSpace Seating Plan ---
+
+Table 1:
+  Seat 1: [Empty]
+  Seat 2: [Empty]
+  Seat 3: [Empty]
+  Seat 4: [Empty]
+
+Table 2:
+  Seat 1: [Empty]
+  Seat 2: [Empty]
+  Seat 3: [Empty]
+  Seat 4: [Empty]
+
+Table 3:
+  Seat 1: [Empty]
+  Seat 2: Anna
+  Seat 3: [Empty]
+  Seat 4: [Empty]
+
+Table 4:
+  Seat 1: [Empty]
+  Seat 2: [Empty]
+  Seat 3: [Empty]
+  Seat 4: [Empty]
+
+Table 5:
+  Seat 1: [Empty]
+  Seat 2: [Empty]
+  Seat 3: [Empty]
+  Seat 4: [Empty]
+
+Table 6:
+  Seat 1: [Empty]
+  Seat 2: [Empty]
+  Seat 3: [Empty]
+  Seat 4: [Empty]
+
+-----------------------------
