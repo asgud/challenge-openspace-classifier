@@ -2,11 +2,11 @@ import csv
 from utils.openspace import Openspace     # This line imports your Openspace class from your file openspace.py
 
 
-# --- Step 1: Read names from new_colleagues.csv.csv ---
+# --- Step 1: Read names from new_colleagues.csv ---
 names = []
 
 # Open the CSV file in read mode
-with open("new_colleagues.csv.csv", "r") as file:
+with open("new_colleagues.csv", "r") as file:
     reader = csv.reader(file)  # simple reader for files without headers
     for row in reader:
         if not row:  # skip empty lines
