@@ -24,7 +24,8 @@ Each class lives in its own file to keep the project clean and modular.
 
 ## 🧱 Project Structure
 
-challenge-openspace-classifier/
+```
+challenge-openspace-classifier
 │
 ├── main.py                  # Main script that runs the program
 ├── new_colleagues.csv       # Input file with list of colleague names
@@ -35,8 +36,7 @@ challenge-openspace-classifier/
     ├── __init__.py          # Marks utils as a Python package
     ├── table.py             # Contains Seat and Table classes
     └── openspace.py         # Contains Openspace class and random assignment logic
-
-
+```
 
 ## 🧠 How It Works
 
@@ -49,14 +49,14 @@ challenge-openspace-classifier/
 ## ⚙️ How to Run
 
 
-1️⃣. Clone the repository to your local machine.
-2️⃣. Make sure your folder has a colleagues.csv file.
-3️⃣. Run the program, you can execute the 'main.py' file from command line:
+1️⃣ Clone the repository to your local machine.\
+2️⃣ Make sure your folder has a colleagues.csv file.\
+3️⃣ Run the program, you can execute the 'main.py' file from command line:
 
 ```
    python main.py
 ```
-4️⃣. View the result: The seating plan will print in your terminal and be saved as a text file. 
+4️⃣ View the result: The seating plan will print in your terminal and be saved as a text file. 
 
 
 ## ✨ What I Learned
@@ -77,8 +77,8 @@ This project took two days for completion.
 
 ## 🧑‍💻 Author
 
-Astha Gudgilla
-🌱 This project was done as part of the AI Boocamp at BeCode.org.
+Astha Gudgilla\
+🌱 This project was done as part of the AI Bootcamp at BeCode.org.\
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/asthagudgilla/).
 
 
